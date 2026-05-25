@@ -2,28 +2,22 @@
 
 <img src="" />
 
-[![Coolify](https://img.shields.io/badge/Coolify-9333ea?style=for-the-badge&logo=docker&logoColor=white)](https://coolify.io)
-[![Sponsor](https://img.shields.io/badge/Sponsor-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/coollabsio)
-[![X](https://img.shields.io/badge/@bytedav-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bytedav)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://coollabs.io/discord)
-
 </div>
 
 ---
 
-### whoami
+### Bytedav
 
-Founder of [**@coollabsio**](https://github.com/coollabsio). I build open-source, self-hostable alternatives to closed SaaS — tools you actually own. No paywalls, no premium tiers, no compromise.
-
+Fundador de [**@bytedav**](https://github.com/bytedav). Holding corporativo
 ---
 
-### whatamidoing
+### Que Hacemos
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Coolify](https://github.com/coollabsio/coolify)
+### [Bytedav](https://bytedav.com)
 Self-hostable Heroku / Vercel / Netlify alternative. 280+ one-click services on your own servers.
 
 ![stars](https://img.shields.io/github/stars/coollabsio/coolify?style=flat&color=9333ea&labelColor=1a1b27) ![lang](https://img.shields.io/badge/PHP-Laravel-777bb4?style=flat&labelColor=1a1b27)
