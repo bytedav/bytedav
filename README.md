@@ -6,7 +6,7 @@
 
 ---
 
-### Guimel David Bermudez Ascate
+### Hola 👋, Soy Guimel David Bermudez Ascate
 
 Fundador de [**@bytedav**](https://github.com/bytedav). Holding corporativo
 ---
