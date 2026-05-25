@@ -100,15 +100,15 @@ Real stories of LLMs going wrong. Hallucinations, leaks, and other AI nightmares
 
 <div align="center">
 
-[![coollabsio stars](https://img.shields.io/badge/⭐_stars_across_@coollabsio-59k+-9333ea?style=for-the-badge&labelColor=0d1117)](https://github.com/coollabsio)
+[![byttedav stars](https://img.shields.io/badge/⭐_stars_across_@bytedav-59k+-9333ea?style=for-the-badge&labelColor=0d1117)](https://github.com/bytedav)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrasbacsai&theme=tokyonight" alt="profile" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bytedav&theme=tokyonight" alt="profile" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrasbacsai&theme=tokyonight" alt="stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andrasbacsai&theme=tokyonight&utcOffset=2" alt="productive" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bytedav&theme=tokyonight" alt="stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bytedav&theme=tokyonight&utcOffset=2" alt="productive" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrasbacsai&theme=tokyonight" alt="languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrasbacsai&theme=tokyonight" alt="commits" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bytedav&theme=tokyonight" alt="languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bytedav&theme=tokyonight" alt="commits" />
 
 </div>
 
