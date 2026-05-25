@@ -11,76 +11,16 @@
 Fundador de [**@bytedav**](https://github.com/bytedav). Holding corporativo
 ---
 
-### Que Hacemos
+## Proyectos activos
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Bytedav](https://bytedav.com)
-Self-hostable Heroku / Vercel / Netlify alternative. 280+ one-click services on your own servers.
+### [Asorana](https://asorana.com)
+Agencia de marketing digital 360.
 
-
-</td>
-<td width="50%" valign="top">
-
-### [Jean]()
-A dev environment for AI agents. Ship code with Claude, Codex, and friends.
-
-![stars](https://img.shields.io/github/stars/coollabsio/jean?style=flat&color=9333ea&labelColor=1a1b27) ![lang](https://img.shields.io/badge/TypeScript-3178c6?style=flat&labelColor=1a1b27)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Maxio](https://github.com/coollabsio/maxio)
-A better MinIO. S3-compatible object storage written in Rust.
-
-![stars](https://img.shields.io/github/stars/coollabsio/maxio?style=flat&color=9333ea&labelColor=1a1b27) ![lang](https://img.shields.io/badge/Rust-orange?style=flat&labelColor=1a1b27)
-
-</td>
-<td width="50%" valign="top">
-
-### [Safetyper](https://github.com/coollabsio/safetyper)
-A Grammarly alternative — where YOU own what you type on your keyboard.
-
-![stars](https://img.shields.io/github/stars/coollabsio/safetyper?style=flat&color=9333ea&labelColor=1a1b27) ![lang](https://img.shields.io/badge/TypeScript-3178c6?style=flat&labelColor=1a1b27)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Fonts](https://github.com/coollabsio/fonts)
-A privacy-friendly drop-in replacement for Google Fonts.
-
-![stars](https://img.shields.io/github/stars/coollabsio/fonts?style=flat&color=9333ea&labelColor=1a1b27) ![lang](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&labelColor=1a1b27)
-
-</td>
-<td width="50%" valign="top">
-
-### [Sentinel](https://github.com/coollabsio/sentinel)
-An API for your Linux server. Lightweight, fast, written in Go.
-
-![stars](https://img.shields.io/github/stars/coollabsio/sentinel?style=flat&color=9333ea&labelColor=1a1b27) ![lang](https://img.shields.io/badge/Go-00add8?style=flat&labelColor=1a1b27)
-
-</td>
-</tr>
-</table>
-
----
-
-## whatelse
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Serverless Horrors](https://github.com/coollabsio/serverlesshorrors.com)
-Real stories of serverless bills gone catastrophic. A reminder why you shouldn't trust the cloud.
-
-![stars](https://img.shields.io/github/stars/coollabsio/serverlesshorrors.com?style=flat&color=9333ea&labelColor=1a1b27) ![lang](https://img.shields.io/badge/Astro-FF5D01?style=flat&labelColor=1a1b27)
+![stars](https://img.shields.io/github/stars/bytedav/serverlesshorrors.com?style=flat&color=9333ea&labelColor=1a1b27) ![lang](https://img.shields.io/badge/Astro-FF5D01?style=flat&labelColor=1a1b27)
 
 </td>
 <td width="50%" valign="top">
@@ -88,7 +28,7 @@ Real stories of serverless bills gone catastrophic. A reminder why you shouldn't
 ### [LLM Horrors](https://github.com/coollabsio/llmhorrors.com)
 Real stories of LLMs going wrong. Hallucinations, leaks, and other AI nightmares.
 
-![stars](https://img.shields.io/github/stars/coollabsio/llmhorrors.com?style=flat&color=9333ea&labelColor=1a1b27) ![lang](https://img.shields.io/badge/Astro-FF5D01?style=flat&labelColor=1a1b27)
+![stars](https://img.shields.io/github/stars/bytedav/llmhorrors.com?style=flat&color=9333ea&labelColor=1a1b27) ![lang](https://img.shields.io/badge/Astro-FF5D01?style=flat&labelColor=1a1b27)
 
 </td>
 </tr>
