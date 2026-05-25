@@ -4,7 +4,7 @@
 
 [![Coolify](https://img.shields.io/badge/Coolify-9333ea?style=for-the-badge&logo=docker&logoColor=white)](https://coolify.io)
 [![Sponsor](https://img.shields.io/badge/Sponsor-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/coollabsio)
-[![X](https://img.shields.io/badge/@heyandras-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bytedav)
+[![X](https://img.shields.io/badge/@bytedav-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bytedav)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://coollabs.io/discord)
 
 </div>
