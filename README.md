@@ -116,8 +116,8 @@ Real stories of LLMs going wrong. Hallucinations, leaks, and other AI nightmares
 
 <div align="center">
 
-**Building in the open at [@coollabsio](https://github.com/coollabsio).**
+**Construyendo a la vista en [@bytedav](https://bytedav.com).**
 
-[coolify.io](https://coolify.io) · [sponsor](https://github.com/sponsors/coollabsio) · [@heyandras](https://x.com/heyandras) · [discord](https://coollabs.io/discord)
+[bytedav.com](https://bytedav.com) · [@heyandras](https://x.com/heyandras) · [facebook]()
 
 </div>
