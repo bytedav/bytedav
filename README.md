@@ -4,20 +4,6 @@ Somos una matriz tecnológica y **Venture Builder** dedicada a conceptualizar, d
 
 ---
 
-### ⚡ Proyecto Activo Principal
-Nuestros esfuerzos de desarrollo e innovación están concentrados actualmente en nuestra vertical de marketing, Contenido y automatización comercial:
-
-*   **Asorana:** Agencia digital enfocada en servicios B2B y B2C.
-
----
-
-### 🌐 Nuestro Ecosistema Global
-Además de nuestra agencia digital, la matriz da soporte y desarrolla soluciones en otras verticales estratégicas:
-
-*   **Retail & E-commerce:** Marcas independientes con identidad.
-
----
-
 ### 🛠️ Stack Tecnológico de la Matriz
 Construimos software modular, escalable y con una estética limpia inspirada en los estándares de diseño más exigentes del sector tecnológico:
 
