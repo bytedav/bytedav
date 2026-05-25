@@ -20,12 +20,11 @@ Fundador de [**@bytedav**](https://github.com/bytedav). Holding corporativo
 ### [Bytedav](https://bytedav.com)
 Self-hostable Heroku / Vercel / Netlify alternative. 280+ one-click services on your own servers.
 
-![stars](https://img.shields.io/github/stars/coollabsio/coolify?style=flat&color=9333ea&labelColor=1a1b27) ![lang](https://img.shields.io/badge/PHP-Laravel-777bb4?style=flat&labelColor=1a1b27)
 
 </td>
 <td width="50%" valign="top">
 
-### [Jean](https://github.com/coollabsio/jean)
+### [Jean]()
 A dev environment for AI agents. Ship code with Claude, Codex, and friends.
 
 ![stars](https://img.shields.io/github/stars/coollabsio/jean?style=flat&color=9333ea&labelColor=1a1b27) ![lang](https://img.shields.io/badge/TypeScript-3178c6?style=flat&labelColor=1a1b27)
