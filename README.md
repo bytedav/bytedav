@@ -6,7 +6,7 @@
 
 ---
 
-### Bytedav
+### Guimel David Bermudez Ascate
 
 Fundador de [**@bytedav**](https://github.com/bytedav). Holding corporativo
 ---
@@ -20,15 +20,11 @@ Fundador de [**@bytedav**](https://github.com/bytedav). Holding corporativo
 ### [Asorana](https://asorana.com)
 Agencia de marketing digital 360.
 
-![stars](https://img.shields.io/github/stars/bytedav/serverlesshorrors.com?style=flat&color=9333ea&labelColor=1a1b27) ![lang](https://img.shields.io/badge/Astro-FF5D01?style=flat&labelColor=1a1b27)
-
 </td>
 <td width="50%" valign="top">
 
-### [LLM Horrors](https://github.com/coollabsio/llmhorrors.com)
-Real stories of LLMs going wrong. Hallucinations, leaks, and other AI nightmares.
-
-![stars](https://img.shields.io/github/stars/bytedav/llmhorrors.com?style=flat&color=9333ea&labelColor=1a1b27) ![lang](https://img.shields.io/badge/Astro-FF5D01?style=flat&labelColor=1a1b27)
+### [bytedav](https://github.com/bytedav)
+Holding tecnologico.
 
 </td>
 </tr>
