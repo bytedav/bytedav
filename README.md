@@ -21,7 +21,5 @@ Construimos software modular, escalable y con una estética limpia inspirada en 
 
 ### 📩 Contacto Corporativo
 *   **Sitio Web:** [bytedav.com](https://bytedav.com)
-*   **Ecosistema B2B B2C:** [asorana.com](https://asorana.com)
-*   **Contacto:**
 
 *"Construyendo la infraestructura del mañana, una empresa a la vez."*
