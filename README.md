@@ -34,7 +34,7 @@ Holding tecnologico.
 
 <div align="center">
 
-**Construyendo a la vista en [@bytedav](https://bytedav.com).**
+**Construyendo a la vista en [@bytedav](https://github.com/bytedav).**
 
 [bytedav.com](https://bytedav.com) ·
 
