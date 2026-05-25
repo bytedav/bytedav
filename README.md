@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=180&section=header&text=Andras%20Bacsai&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Entrepreneur%20·%20Open-source%20·%20No%20compromise&descAlignY=62&descSize=16" alt="banner" />
+<img src="" />
 
 [![Coolify](https://img.shields.io/badge/Coolify-9333ea?style=for-the-badge&logo=docker&logoColor=white)](https://coolify.io)
 [![Sponsor](https://img.shields.io/badge/Sponsor-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/coollabsio)
-[![X](https://img.shields.io/badge/@heyandras-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/heyandras)
+[![X](https://img.shields.io/badge/@heyandras-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bytedav)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://coollabs.io/discord)
 
 </div>
